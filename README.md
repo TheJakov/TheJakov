@@ -10,9 +10,16 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-<h4 align="center"> More preview content will be added soon.</h4>
 
-<br><br><h4 align="center">
+<h4 align="center">Statistics of technologies used on my repositories</h4>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejakov" />
+  </a>
+</p>
+
+<h4 align="center">
           You can buy me a beer if you'd like -> <a href="https://www.buymeacoffee.com/jakov" target="blank"><img align="center" src="https://img.buymeacoffee.com/api/?name=Jakov+Kristovic&size=300&bg-image=bmc" alt="jakovkristovic" height="40" width="40" /></a>
 </h4>
 <p align="center">
