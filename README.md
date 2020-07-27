@@ -14,7 +14,7 @@
 <h4 align="center">Statistics of technologies used on my repositories</h4>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/TheJakov?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejakov" />
   </a>
 </p>
