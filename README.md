@@ -8,7 +8,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_48x48.png" alt="javascript" width="48" height="48"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" alt="bootstrap" width="48" height="48"/>
 </p>
 
 
