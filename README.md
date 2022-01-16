@@ -6,7 +6,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp_48x48.png" alt="csharp" width="48" height="48"/> 
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_48x48.png" alt="javascript" width="48" height="48"/>
-  <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" alt="react" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" alt="unity" width="120" height="48"/>
+    <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" alt="react" width="48" height="48"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="48" height="48" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" alt="bootstrap" width="48" height="48"/>
   
