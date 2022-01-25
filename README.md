@@ -30,6 +30,7 @@ Lately, I've been working on some cool AR mini-projects. You can check them out 
 
 1. [DinoAR](https://github.com/TheJakov/DinoAR)
 2. [ZombiesAR](https://github.com/TheJakov/ZombiesAR)
+3. [WalkingDinoAR](https://github.com/TheJakov/WalkingDinoAR)
 
 <h4 align="center">
           You can buy me a beer if you'd like -> <a href="https://www.buymeacoffee.com/jakov" target="blank"><img align="center" src="https://img.buymeacoffee.com/api/?name=Jakov+Kristovic&size=300&bg-image=bmc" alt="jakovkristovic" height="40" width="40" /></a>
