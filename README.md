@@ -32,11 +32,12 @@ Lately, I've been working on some cool AR mini-projects. You can check them out 
 2. [ZombiesAR](https://github.com/TheJakov/ZombiesAR)
 3. [WalkingDinoAR](https://github.com/TheJakov/WalkingDinoAR)
 
-<h4 align="center">
-          You can buy me a beer if you'd like -> <a href="https://www.buymeacoffee.com/jakov" target="blank"><img align="center" src="https://img.buymeacoffee.com/api/?name=Jakov+Kristovic&size=300&bg-image=bmc" alt="jakovkristovic" height="40" width="40" /></a>
-</h4>
 <p align="center">
 <a href="https://linkedin.com/in/jakovkristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jakovkristovic" height="40" width="40" /></a>
 <a href="https://fb.com/jakov.kristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jakov.kristovic" height="40" width="40" /></a>
 <a href="https://instagram.com/jakovk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jakovk7" height="40" width="40" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jakov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" align="center"/></a>
 </p>
