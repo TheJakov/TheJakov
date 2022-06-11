@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/TheJakov?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejakov" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejakov&layout=compact" />
   </a>
 </p>
 
