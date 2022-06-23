@@ -7,7 +7,6 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp_48x48.png" alt="csharp" width="48" height="48"/> 
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_48x48.png" alt="javascript" width="48" height="48"/>
   <img src="https://cdn.cdnlogo.com/logos/f/30/flutter.svg" alt="flutter" width="48" height="48"/>
-  <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" alt="react" width="48" height="48"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="48" height="48" />
 
   
