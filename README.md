@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/TheJakov?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejakov&layout=compact&title_color=7A67EE&text_color=1a202c" alt="Most used languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejakov&layout=compact&title_color=000000&text_color=000000" alt="Most used languages" />
   </a>
 </p>
 
