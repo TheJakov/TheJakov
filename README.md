@@ -23,15 +23,6 @@
   </a>
 </p>
 
-
-## Latest work
-
-Lately, I've been working on some cool AR mini-projects. You can check them out if you'd like, they have GIF previews too.
-
-1. [DinoAR](https://github.com/TheJakov/DinoAR)
-2. [ZombiesAR](https://github.com/TheJakov/ZombiesAR)
-3. [WalkingDinoAR](https://github.com/TheJakov/WalkingDinoAR)
-
 <p align="center">
 <a href="https://linkedin.com/in/jakovkristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jakovkristovic" height="40" width="40" /></a>
 <a href="https://fb.com/jakov.kristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jakov.kristovic" height="40" width="40" /></a>
