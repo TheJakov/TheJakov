@@ -23,7 +23,7 @@
 
 <p align="start">
 <a href="https://linkedin.com/in/jakovkristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jakovkristovic" height="40" width="40" /></a>
-<a mailto:"kristovic.jakov@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kristovic.jakov@gmail.com" height="40" width="40" /></a>
+<a href="mailto:kristovic.jakov@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kristovic.jakov@gmail.com" height="40" width="40" /></a>
 <a href="https://fb.com/jakov.kristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jakov.kristovic" height="40" width="40" /></a>
 <a href="https://instagram.com/jakovkristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jakovkristovic" height="40" width="40" /></a>
 </p>
