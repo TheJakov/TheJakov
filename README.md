@@ -27,9 +27,3 @@
 <a href="https://fb.com/jakov.kristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jakov.kristovic" height="40" width="40" /></a>
 <a href="https://instagram.com/jakovkristovic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jakovkristovic" height="40" width="40" /></a>
 </p>
-
-## Thank you
-
-<p align="start">
-  <a href="https://www.buymeacoffee.com/jakov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" align="center"/></a>
-</p>
