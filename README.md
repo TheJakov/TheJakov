@@ -7,6 +7,7 @@
 <p align="start">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp_48x48.png" alt="csharp" width="48" height="48"/> 
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_48x48.png" alt="javascript" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript_48x48.png" alt="typescript" width="48" height="48"/>
   <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" alt="react" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1280px-Amazon_Lambda_architecture_logo.svg.png" alt="aws_lambda" width="48" height="48"/>
 </p>
